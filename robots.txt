@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://homplage.github.io/sitemap.homplage.gz
+Sitemap: https://homplage.github.io/app/sitemap.homplage.gz
+Sitemap: https://homplage.github.io/assets/sitemap.homplage.gz
+Sitemap: https://homplage.github.io/css/sitemap.homplage.gz
+Sitemap: https://homplage.github.io/data/sitemap.homplage.gz
+Sitemap: https://homplage.github.io/includes/sitemap.homplage.gz
+Sitemap: https://homplage.github.io/item/sitemap.homplage.gz
+Sitemap: https://homplage.github.io/src/sitemap.homplage.gz
